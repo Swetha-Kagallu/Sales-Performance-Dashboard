@@ -1,0 +1,62 @@
+📊 Sales Performance Dashboard (Excel)
+An interactive Sales Performance Dashboard built in Microsoft Excel to analyze and visualize business sales data across regions, products, customers, and time periods.
+
+This dashboard provides clear KPI tracking and dynamic filtering to support data-driven decision making.
+
+🚀 Project Overview
+This Excel dashboard helps stakeholders:
+
+Monitor overall sales performance
+Track monthly and weekly sales trends
+Compare regional sales performance
+Identify top customers
+Analyze product-level sales distribution
+View key performance metrics at a glance
+
+The dashboard is fully interactive using slicers for region and month selection.
+
+📌 Key Features
+🔢 KPI Cards
+Total Sales: $509,875
+Total Quantity Sold: 1,351
+Total Customers: 242
+Total Orders: 365,563
+
+📈 Visual Insights Included
+Monthly Sales Trend (Line Chart)
+Weekly Sales Analysis (Bar Chart)
+Regional Sales Comparison
+East
+North
+South
+West
+
+Top 10 Customers by Revenue
+Sales by Product Category
+Laptop
+Monitor
+Mouse
+Chair
+Desk
+
+🛠 Tools & Techniques Used
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Slicers (Region & Month filters)
+KPI Cards using formatted cells
+Data aggregation & summarization
+Chart formatting & dashboard layout design
+
+🎯 Business Use Case
+This dashboard can be used by:
+Sales Managers
+Business Analysts
+Operations Teams
+Executives & Stakeholders
+
+It enables quick identification of:
+High-performing regions
+Best-selling products
+Top revenue-generating customers
+Sales trends over time
